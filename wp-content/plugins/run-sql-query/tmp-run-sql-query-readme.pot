@@ -1,0 +1,72 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Run SQL Query"
+msgstr ""
+
+#. Short description.
+msgid "Run SQL Query is a simple plugin to quickly execute any type of SQL query into the WordPress&#039;s DB and export the results in a CSV format file."
+msgstr ""
+
+#. Screenshot description.
+msgid "Run SQL Query plugin screen"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin will allow you to execute any type of SQL query into the WordPress's DB connecting through the driver provided by the MySQLi extension without the need to use another tool like phpMyAdmin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It also gives you the ability to export the results in a CSV format file."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In order to access this plugin's admin page (Tools -&gt; Run SQL Query), your account needs to have the <code>install_plugins</code> capability, that means a Super Admin in the multi-site installation or an Admin in a single site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Feel free to contribute:\n"
+"https://github.com/Sefirost/run-sql-query"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Use on you own risk. Under no circumstances will the Author of this plugin assume responsibility or liability for any damages or destructive effects on the database resulting from the queries executed using this tool."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the plugin folder <code>run-sql-query</code> to the <code>/wp-content/plugins/</code> directory or by using the \"Add Plugin\" function of WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin <code>Run Sql Query</code> through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item, faq paragraph.
+msgid "The plugin page can be accessed via the 'Run SQL Query' link under 'Tools' menu in the administration area of a site (if your role is Admin for site administration role for single-site installs, or Super Admin for network installs)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial version"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where is the plugin page to run the queries?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can a query make unrecoverable changes in the database?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What driver it uses to connect to the Database?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, and this plugin doesn't provide and a way to undo the changes. Under no circumstances will the Author of this plugin assume responsibility or liability for any damages or destructive effects on the database resulting from the queries executed using this tool."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Unlike other similar plugins it uses the driver provided by the MySQLi extension included since PHP 5.3.0 which is designed to work with MySQL version 4.1.13 or newer."
+msgstr ""
