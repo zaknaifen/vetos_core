@@ -2501,7 +2501,10 @@ function draw_event($event)
   $header_details =  '<span class="event-title" '.$style.'>'.stripslashes($event->event_title).'</span><br />
 <span class="event-title-break"></span><br /><b>Nr wizyty: </b>'
 ///EDIT_PATIENT
-.stripslashes($event->event_id).'<br />[sql] select a.patient_name,b.owner_id, b.owner_name, b.owner_surname from patient_info a join owner_info b on (a.patient_owner_id=b.owner_id) where patient_id=( select patient_id from wp_calendar where event_id='.stripslashes($event->event_id).' );[/sql]';
+.stripslashes($event->event_id).'<br />
+[sql] select display_name as lekarz from wp_users where ID=( select vet_id from wp_calendar where event_id='.stripslashes($event->event_id).' );[/sql]
+
+[sql] select a.patient_name,b.owner_id, b.owner_name, b.owner_surname from patient_info a join owner_info b on (a.patient_owner_id=b.owner_id) where patient_id=( select patient_id from wp_calendar where event_id='.stripslashes($event->event_id).' );[/sql]';
 	
   if ($event->event_time != "00:00:00")
     {
