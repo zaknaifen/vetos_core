@@ -1,0 +1,90 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{polski}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+
+
+\author{Klaudia Czuba, Mateusz Koprucki}
+\title{VetOS - system wsparcia kliniki weterynaryjnej}
+\date{}
+\begin{document}
+	\maketitle
+	\newpage
+	\tableofcontents
+	\newpage
+	
+	\section{Wstęp}
+	Przedmiotem dokumentacji jest system wsparcia kliniki weterynaryjnej przygotowany na zajęcia laboratoryjne z systemów baz danych. Autorami systemu są:
+		\begin{itemize}
+			\item Klaudia Czuba
+			\item Mateusz Koprucki
+		\end{itemize}
+	System został zaprojektowany w formie aplikacji webowej do stworzenia której użyto następujących technologii:
+		\begin{itemize}
+			\item Serwer www - Apache2 wraz z PHP
+			\item Serwer bazodanowy - Mysql 5.6.15
+			\item System zarządzania treścią (CMS) Wordpress 4.7 z rozszerzeniami
+		\end{itemize}
+\newline
+	Do celów demonstracyjnych aplikacja posiada trzy konta:
+		\begin{itemize}
+			\item vet\_test, hasło vet\_test - do prezentacji grupy weterynarzy
+			\item staff\_test, hasło staff\_test - do prezentacji grupy obsługi
+			\item admin\_test, hasło  admin\_test - do prezentacji możliwości administracji
+		\end{itemize}
+\newline		
+		Pełne repozytorium dostępne jest pod adresem: 
+	
+	\url{https://github.com/zaknaifen/vetos_core}
+	
+	\section {Instalacja}
+		W celu zainstalowania systemu należy zainstalować na serwerze lub komputerze lokalnym środowisko
+		\begin{itemize}
+			\item Dla Windows: Webserv 2.2
+			\item Dla Linux: apache2 z php i mariadb.
+		\end{itemize}
+	Następnie ściągnąc repozytorium z adresu podanego we wstępie do lokalizacji środowiska. Z folderu sql wgrać poprzez phpmyadmin lub konsole mysql plik sql z bazą danych. 
+	
+	
+	
+	
+	
+	\section {Użytkownicy}
+		Aplikacja pozwala na przypisanie do systemu wiele kont przez administrację z podziałem na grupy zdefinowane przez twórców aplikacji. Są to:
+		\begin{itemize}
+			\item Weterynarz (vet) - grupa przeznaczona dla lekarzy, pozwala na dostęp do modułu weterynaryjnej aplikacji
+			\item Obsługa (staff) - grupa przeznaczona dla obsługi z dostępem do sekcji modułu obsługi
+			\item Administratcja (admin) - grupa administracyjna, pełen dostęp do modułów. 
+		\end{itemize}
+	
+	\section{Moduły}
+	Aplikacja została podzielona na trzy główne moduły. 
+	\subsection{Moduł weterynarza}
+	Moduł weterynarza jest dostępny dla użytkowników z grupy weterynarzy i administracji. Sekcja została podzielona na dwie części:
+	\begin{itemize}
+		\item $[W$] Grafik - przyszłe wizyty weterynarza, wraz z formularzem przejścia do konkretnej wizyty. 
+		
+		OBRAZEK!
+		
+		Po wprowadzeniu numeru wizyty aplikacja przenosi użytkownika na stronę realizacji wizyty, gdzie:
+			\begin{itemize}
+				\item W częsci górnej pojawiają się dane pacjenta wraz z powodem wizyty
+				\item W centralnej części znajduję się arkusz do wypełnienia podczas wizyty
+					\begin{itemize}
+						\item Diagnoza
+						\item Zalecenia
+					\end{itemize}
+				\item Z prawej strony wyświetlają się 4 ostatnie wpisy z historii wizyt pacjenta z możliwością przejścia do pełnej historii.
+			
+			\end{itemize}
+		
+		OBRAZEK!
+		
+	\end{itemize}	
+		
+\end{document}
