@@ -6,13 +6,15 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{hyperref}
-
+\usepackage{listings}
 
 
 \author{Klaudia Czuba, Mateusz Koprucki}
 \title{VetOS - system wsparcia kliniki weterynaryjnej}
 \date{}
 \begin{document}
+
+	
 	\maketitle
 	\newpage
 	\tableofcontents
@@ -37,6 +39,11 @@
 			\item staff\_test, hasło staff\_test - do prezentacji grupy obsługi
 			\item admin\_test, hasło  admin\_test - do prezentacji możliwości administracji
 		\end{itemize}
+	W dokumentacji zamieszczono kody źródłowe SQL ze zmiennymi PHP np. 
+	\begin{itemize}
+		\item '.\$zmienna.'
+		\item '\$zmienna'
+	\end{itemize}
 \newline		
 		Pełne repozytorium dostępne jest pod adresem: 
 	
@@ -82,9 +89,40 @@
 				\item Z prawej strony wyświetlają się 4 ostatnie wpisy z historii wizyt pacjenta z możliwością przejścia do pełnej historii.
 			
 			\end{itemize}
-		
+		\end{itemize}
 		OBRAZEK!
 		
-	\end{itemize}	
+		SQL Wykorzystany dla tej strony:
+		
+		\begin{lstlisting}
+		select 
+		a.vet_id,
+		a.event_id as `numer wizyty`,
+		a.event_begin as `data`,
+		a.event_time as `godzina`,
+		a.event_desc as `opis`,
+		b.patient_id as `numer pacjenta`,
+		b.patient_name as `imie pacjenta`,
+		c.owner_name as `imie  wlasciciela`,
+		c.owner_surname as `nazwisko wlasciciela`
+		
+		from wp_calendar a
+		join patient_info b on a.patient_id=b.patient_id
+		join owner_info c on b.patient_id=c.owner_id
+		where 
+		(event_time>=curtime() 
+		and a.vet_id=(select ID from wp_users 
+		  where user_login="'.$login.'") 
+		and event_begin>=curdate())
+		
+		or 
+		(event_begin>=sysdate()
+		and a.vet_id=(select ID from wp_users
+		  where user_login="'.$login.'"))
+		
+		order by event_begin asc;
+		\end{lstlisting}
+		
+		
 		
 \end{document}
