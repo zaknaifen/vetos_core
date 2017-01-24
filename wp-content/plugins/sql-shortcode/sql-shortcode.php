@@ -71,10 +71,10 @@ function sql_short_code_handler($atts, $content = null) {
 	$output .= "<table"
 			. (!isset($atts['cellpadding']) ? "" : " cellpadding='" . $atts['cellpadding'] . "'")
 			. (!isset($atts['cellpadding']) ? "" : " cellspacing='" . $atts['cellspacing'] . "'")
-			. (!isset($atts['border']) ? "" : " border='" . $atts['border'] . "'")
+			//. (!isset($atts['border']) ? "" : " border='" . $atts['border'] . "'")
 			. (!isset($atts['class']) ? "" : " class='" . $atts['class'] . "'")
 			. (!isset($atts['style']) ? "" : " style='" . $atts['style'] . "'")
-			. ">";
+			. " border=1 >";
 	$output .= "<tr" . (!isset($atts['tr_style']) ? "" : " style='" . $atts['tr_style'] . "'") . ">";
 	foreach ($columns as $column) {
 		$output .= "<th" . (!isset($atts['th_style']) ? "" : " style='" . $atts['th_style'] . "'") . ">" . esc_attr($column) . "</th>";;
