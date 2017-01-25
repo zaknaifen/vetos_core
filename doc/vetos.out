@@ -1,10 +1,18 @@
 \BOOKMARK [1][-]{section.1}{Wstep}{}% 1
-\BOOKMARK [1][-]{section.2}{Instalacja}{}% 2
-\BOOKMARK [1][-]{section.3}{Uzytkownicy}{}% 3
-\BOOKMARK [1][-]{section.4}{Modu\233y}{}% 4
-\BOOKMARK [2][-]{subsection.4.1}{Strona g\233\363wna}{section.4}% 5
-\BOOKMARK [2][-]{subsection.4.2}{Modu\233 weterynarza}{section.4}% 6
-\BOOKMARK [2][-]{subsection.4.3}{Modu\233 obs\233ugi}{section.4}% 7
-\BOOKMARK [2][-]{subsection.4.4}{Modu\233 administracji}{section.4}% 8
-\BOOKMARK [2][-]{subsection.4.5}{Modu\233 zg\233oszen}{section.4}% 9
-\BOOKMARK [1][-]{section.5}{Spis tabel}{}% 10
+\BOOKMARK [1][-]{section.2}{Definicja systemu}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Wymagania biznesowe}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Cele biznesowe}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Specyfikacja systemu bazy danych}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Zakres i ograniczenia}{}% 6
+\BOOKMARK [1][-]{section.4}{Instalacja}{}% 7
+\BOOKMARK [1][-]{section.5}{Uzytkownicy}{}% 8
+\BOOKMARK [1][-]{section.6}{Modu\233y}{}% 9
+\BOOKMARK [2][-]{subsection.6.1}{Strona g\233\363wna}{section.6}% 10
+\BOOKMARK [2][-]{subsection.6.2}{Modu\233 weterynarza}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.3}{Modu\233 obs\233ugi}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.4}{Modu\233 administracji}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.5}{Modu\233 zg\233oszen}{section.6}% 14
+\BOOKMARK [1][-]{section.7}{Projektowanie fizyczne}{}% 15
+\BOOKMARK [1][-]{section.8}{Projekt aplikacji}{}% 16
+\BOOKMARK [1][-]{section.9}{Spis tabel}{}% 17
+\BOOKMARK [1][-]{section.10}{Uwagi i wnioski}{}% 18

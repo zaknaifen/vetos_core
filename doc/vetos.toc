@@ -1,10 +1,18 @@
 \contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{3}{section.1}
-\contentsline {section}{\numberline {2}Instalacja}{3}{section.2}
-\contentsline {section}{\numberline {3}U\IeC {\.z}ytkownicy}{4}{section.3}
-\contentsline {section}{\numberline {4}Modu\IeC {\l }y}{4}{section.4}
-\contentsline {subsection}{\numberline {4.1}Strona g\IeC {\l }\IeC {\'o}wna}{4}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Modu\IeC {\l } weterynarza}{5}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Modu\IeC {\l } obs\IeC {\l }ugi}{9}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Modu\IeC {\l } administracji}{13}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Modu\IeC {\l } zg\IeC {\l }osze\IeC {\'n}}{19}{subsection.4.5}
-\contentsline {section}{\numberline {5}Spis tabel}{20}{section.5}
+\contentsline {section}{\numberline {2}Definicja systemu}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Wymagania biznesowe}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Cele biznesowe}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Specyfikacja systemu bazy danych}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Zakres i ograniczenia}{4}{section.3}
+\contentsline {section}{\numberline {4}Instalacja}{5}{section.4}
+\contentsline {section}{\numberline {5}U\IeC {\.z}ytkownicy}{5}{section.5}
+\contentsline {section}{\numberline {6}Modu\IeC {\l }y}{5}{section.6}
+\contentsline {subsection}{\numberline {6.1}Strona g\IeC {\l }\IeC {\'o}wna}{5}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Modu\IeC {\l } weterynarza}{6}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Modu\IeC {\l } obs\IeC {\l }ugi}{11}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Modu\IeC {\l } administracji}{15}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Modu\IeC {\l } zg\IeC {\l }osze\IeC {\'n}}{20}{subsection.6.5}
+\contentsline {section}{\numberline {7}Projektowanie fizyczne}{22}{section.7}
+\contentsline {section}{\numberline {8}Projekt aplikacji}{31}{section.8}
+\contentsline {section}{\numberline {9}Spis tabel}{31}{section.9}
+\contentsline {section}{\numberline {10}Uwagi i wnioski}{31}{section.10}
