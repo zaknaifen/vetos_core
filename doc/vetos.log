@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.9)  25 JAN 2017 20:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.9)  27 JAN 2017 20:12
 entering extended mode
 **./vetos.tex
 (vetos.tex
@@ -633,6 +633,17 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count118
+\uc@combtoks=\toks23
+\uc@combtoksb=\toks24
+\uc@temptokena=\toks25
 ) (vetos.aux)
 \openout1 = `vetos.aux'.
 
@@ -655,17 +666,17 @@ LaTeX Font Info:    ... okay on input line 16.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count119
 \scratchdimen=\dimen122
 \scratchbox=\box30
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count121
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count122
 \MPscratchDim=\dimen123
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks27
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -688,7 +699,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count125
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -698,745 +709,543 @@ LaTeX Info: Redefining \nameref on input line 16.
 \@outlinefile=\write3
 \openout3 = `vetos.out'.
 
-\c@lstlisting=\count125
-LaTeX Font Info:    Try loading font information for OML+plm on input line 41.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
+\c@lstlisting=\count126
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.42 ...ŻSZA SZKOŁA ZARZĄDZANIA EDUKACJA}\\[50]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.60 	Nr albumu 24081\\[50]
+                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.62 	\textbf{Kierunek: Informatyka}\\[50]
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.64 ...CJA PROJEKTOWA SYSTEMU BAZY DANYCH} \\[20]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.66 ...m wsparcia kliniki weterynaryjnej"}}\\[60]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.73 ...{Projektowanie systemów baz danych}\\[70]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ignorespaces 
+l.75 	dr inż. Zbigniew Wrona\\[70]
+                                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (vetos.toc
+LaTeX Font Info:    Try loading font information for OML+plm on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 3.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 41.
-
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 41.
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 41.
-LaTeX Font Info:    Try loading font information for U+msa on input line 41.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 41.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (vetos.toc
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <10> on input line 3.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 3.
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `vetos.toc'.
 
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 88.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 72.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 88.
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 112
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd"
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-)
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[3] [4] <1.png, id=120, 753.5653pt x 496.85625pt>
+) [3] [4]
+<1.png, id=119, 753.5653pt x 496.85625pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
-Package pdftex.def Info: 1.png used on input line 158.
+Package pdftex.def Info: 1.png used on input line 198.
 (pdftex.def)             Requested size: 312.9803pt x 206.35828pt.
  [5]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) <2.png, id=126, 633.86812pt x 392.96812pt>
+)
+<2.png, id=125, 633.86812pt x 392.96812pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
-Package pdftex.def Info: 2.png used on input line 195.
+Package pdftex.def Info: 2.png used on input line 235.
 (pdftex.def)             Requested size: 312.9803pt x 194.03711pt.
  [6 <./1.png>]
-<3.png, id=153, 598.48593pt x 626.34pt>
+<3.png, id=152, 598.48593pt x 626.34pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
-Package pdftex.def Info: 3.png used on input line 207.
+Package pdftex.def Info: 3.png used on input line 247.
 (pdftex.def)             Requested size: 312.9803pt x 327.55275pt.
 
-Overfull \hbox (14.98033pt too wide) in paragraph at lines 207--208
+Overfull \hbox (14.98033pt too wide) in paragraph at lines 247--248
 [][] 
  []
 
 [7 <./2.png>] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
 )
-Overfull \hbox (1.51385pt too wide) in paragraph at lines 231--232
+Overfull \hbox (1.51385pt too wide) in paragraph at lines 271--272
 [][][][][][][][][] 
  []
 
 [8 <./3.png>]
-Overfull \hbox (1.51385pt too wide) in paragraph at lines 241--242
+Overfull \hbox (1.51385pt too wide) in paragraph at lines 281--282
 [][][][][][][][][] 
  []
 
-<5.png, id=187, 816.04875pt x 151.3153pt>
+<5.png, id=186, 816.04875pt x 151.3153pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
-Package pdftex.def Info: 5.png used on input line 270.
+Package pdftex.def Info: 5.png used on input line 310.
 (pdftex.def)             Requested size: 312.9803pt x 58.03375pt.
 
-Overfull \hbox (14.98033pt too wide) in paragraph at lines 270--271
+Overfull \hbox (14.98033pt too wide) in paragraph at lines 310--311
 [][] 
  []
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [9 <./5.png>] <4.png, id=234, 566.115pt x 286.82156pt>
+) [9 <./5.png>]
+<4.png, id=233, 566.115pt x 286.82156pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
-Package pdftex.def Info: 4.png used on input line 315.
+Package pdftex.def Info: 4.png used on input line 355.
 (pdftex.def)             Requested size: 312.9803pt x 158.57512pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [10 <./4.png>] <6.png, id=265, 572.89032pt x 497.60907pt>
+) [10 <./4.png>]
+<6.png, id=264, 572.89032pt x 497.60907pt>
 File: 6.png Graphic file (type png)
  <use 6.png>
-Package pdftex.def Info: 6.png used on input line 343.
+Package pdftex.def Info: 6.png used on input line 383.
 (pdftex.def)             Requested size: 312.9803pt x 271.85594pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
 )
-Overfull \hbox (22.56313pt too wide) in paragraph at lines 353--354
+Overfull \hbox (22.56313pt too wide) in paragraph at lines 393--394
 [][][][][][][][][][][][] 
  []
 
-[11 <./6.png>] <7.png, id=285, 578.16pt x 462.97969pt>
+[11 <./6.png>] <7.png, id=284, 578.16pt x 462.97969pt>
 File: 7.png Graphic file (type png)
  <use 7.png>
-Package pdftex.def Info: 7.png used on input line 375.
+Package pdftex.def Info: 7.png used on input line 415.
 (pdftex.def)             Requested size: 312.9803pt x 250.62697pt.
 
-Overfull \hbox (14.98033pt too wide) in paragraph at lines 375--376
+Overfull \hbox (14.98033pt too wide) in paragraph at lines 415--416
 [][] 
  []
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [12 <./7.png>] <8.png, id=312, 569.87906pt x 315.42844pt>
+) [12 <./7.png>]
+<8.png, id=311, 569.87906pt x 315.42844pt>
 File: 8.png Graphic file (type png)
  <use 8.png>
-Package pdftex.def Info: 8.png used on input line 401.
+Package pdftex.def Info: 8.png used on input line 441.
 (pdftex.def)             Requested size: 312.9803pt x 173.23108pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [13 <./8.png>] <9.png, id=345, 579.66562pt x 386.94562pt>
+) [13 <./8.png>]
+<9.png, id=344, 579.66562pt x 386.94562pt>
 File: 9.png Graphic file (type png)
  <use 9.png>
-Package pdftex.def Info: 9.png used on input line 435.
+Package pdftex.def Info: 9.png used on input line 475.
 (pdftex.def)             Requested size: 312.9803pt x 208.9239pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
 ) [14 <./9.png>]
-Overfull \hbox (11.01358pt too wide) in paragraph at lines 467--468
+Overfull \hbox (11.01358pt too wide) in paragraph at lines 507--508
 [][][][][][][][][][][][][][][][][][] 
  []
 
-<10.png, id=376, 581.17125pt x 247.67531pt>
+<10.png, id=375, 581.17125pt x 247.67531pt>
 File: 10.png Graphic file (type png)
  <use 10.png>
-Package pdftex.def Info: 10.png used on input line 482.
+Package pdftex.def Info: 10.png used on input line 522.
 (pdftex.def)             Requested size: 312.9803pt x 133.38364pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [15 <./10.png>] <11.png, id=399, 566.86781pt x 409.53pt>
+) [15 <./10.png>]
+<11.png, id=398, 566.86781pt x 409.53pt>
 File: 11.png Graphic file (type png)
  <use 11.png>
-Package pdftex.def Info: 11.png used on input line 499.
+Package pdftex.def Info: 11.png used on input line 539.
 (pdftex.def)             Requested size: 312.9803pt x 226.11703pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [16 <./11.png>] <12.png, id=433, 572.89032pt x 245.41687pt>
+) [16 <./11.png>]
+<12.png, id=432, 572.89032pt x 245.41687pt>
 File: 12.png Graphic file (type png)
  <use 12.png>
-Package pdftex.def Info: 12.png used on input line 546.
+Package pdftex.def Info: 12.png used on input line 586.
 (pdftex.def)             Requested size: 312.9803pt x 134.0772pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) <13.png, id=434, 557.83406pt x 204.765pt>
+)
+<13.png, id=433, 557.83406pt x 204.765pt>
 File: 13.png Graphic file (type png)
  <use 13.png>
-Package pdftex.def Info: 13.png used on input line 562.
+Package pdftex.def Info: 13.png used on input line 602.
 (pdftex.def)             Requested size: 312.9803pt x 114.88943pt.
  [17 <./12.png> <./13.png>] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.d
 ef"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) <14.png, id=461, 563.10374pt x 257.46187pt>
+)
+<14.png, id=460, 563.10374pt x 257.46187pt>
 File: 14.png Graphic file (type png)
  <use 14.png>
-Package pdftex.def Info: 14.png used on input line 574.
+Package pdftex.def Info: 14.png used on input line 614.
 (pdftex.def)             Requested size: 312.9803pt x 143.10123pt.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [18 <./14.png>] [19] <15.png, id=540, 568.37344pt x 191.21437pt>
+) [18 <./14.png>]
+[19] <15.png, id=539, 568.37344pt x 191.21437pt>
 File: 15.png Graphic file (type png)
-
-<use 15.png>
-Package pdftex.def Info: 15.png used on input line 661.
+ <use 15.png>
+Package pdftex.def Info: 15.png used on input line 701.
 (pdftex.def)             Requested size: 312.9803pt x 105.2966pt.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) <16.png, id=541, 556.32843pt x 662.475pt>
+)
+<16.png, id=540, 556.32843pt x 662.475pt>
 File: 16.png Graphic file (type png)
  <use 16.png>
-Package pdftex.def Info: 16.png used on input line 697.
+Package pdftex.def Info: 16.png used on input line 737.
 (pdftex.def)             Requested size: 312.9803pt x 372.70192pt.
  [20 <./15.png>]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
-) [21 <./16.png>] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+) [21 <./16.png>]
+("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
 )
-Overfull \hbox (115.16313pt too wide) in paragraph at lines 738--739
+Overfull \hbox (115.16313pt too wide) in paragraph at lines 778--779
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (62.66359pt too wide) in paragraph at lines 757--758
+Overfull \hbox (62.66359pt too wide) in paragraph at lines 797--798
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [22] [23] [24]
-Overfull \hbox (41.66377pt too wide) in paragraph at lines 888--890
+Overfull \hbox (41.66377pt too wide) in paragraph at lines 928--930
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (36.41382pt too wide) in paragraph at lines 896--898
+Overfull \hbox (36.41382pt too wide) in paragraph at lines 936--938
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 914--916
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 954--956
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [25]
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 930--932
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 970--972
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 945--947
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 985--987
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 956--958
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 996--998
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (78.41345pt too wide) in paragraph at lines 963--964
+Overfull \hbox (78.41345pt too wide) in paragraph at lines 1003--1004
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (67.91354pt too wide) in paragraph at lines 964--965
+Overfull \hbox (67.91354pt too wide) in paragraph at lines 1004--1005
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (62.66359pt too wide) in paragraph at lines 965--966
+Overfull \hbox (62.66359pt too wide) in paragraph at lines 1005--1006
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [26]
-Overfull \hbox (57.41364pt too wide) in paragraph at lines 970--971
+Overfull \hbox (57.41364pt too wide) in paragraph at lines 1010--1011
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (41.66377pt too wide) in paragraph at lines 971--972
+Overfull \hbox (41.66377pt too wide) in paragraph at lines 1011--1012
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (31.16386pt too wide) in paragraph at lines 972--973
+Overfull \hbox (31.16386pt too wide) in paragraph at lines 1012--1013
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 981--983
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1021--1023
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (15.414pt too wide) in paragraph at lines 986--987
+Overfull \hbox (15.414pt too wide) in paragraph at lines 1026--1027
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (20.66396pt too wide) in paragraph at lines 987--988
+Overfull \hbox (20.66396pt too wide) in paragraph at lines 1027--1028
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (25.91391pt too wide) in paragraph at lines 988--989
+Overfull \hbox (25.91391pt too wide) in paragraph at lines 1028--1029
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (25.91391pt too wide) in paragraph at lines 989--990
+Overfull \hbox (25.91391pt too wide) in paragraph at lines 1029--1030
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (57.41364pt too wide) in paragraph at lines 990--991
+Overfull \hbox (57.41364pt too wide) in paragraph at lines 1030--1031
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (36.41382pt too wide) in paragraph at lines 991--992
+Overfull \hbox (36.41382pt too wide) in paragraph at lines 1031--1032
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (15.414pt too wide) in paragraph at lines 995--996
+Overfull \hbox (15.414pt too wide) in paragraph at lines 1035--1036
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (15.414pt too wide) in paragraph at lines 997--998
+Overfull \hbox (15.414pt too wide) in paragraph at lines 1037--1038
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1000--1002
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1040--1042
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (31.16386pt too wide) in paragraph at lines 1005--1006
+Overfull \hbox (31.16386pt too wide) in paragraph at lines 1045--1046
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (25.91391pt too wide) in paragraph at lines 1007--1008
+Overfull \hbox (25.91391pt too wide) in paragraph at lines 1047--1048
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (104.66322pt too wide) in paragraph at lines 1010--1012
+Overfull \hbox (104.66322pt too wide) in paragraph at lines 1050--1052
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [27]
-Overfull \hbox (99.41327pt too wide) in paragraph at lines 1021--1023
+Overfull \hbox (99.41327pt too wide) in paragraph at lines 1061--1063
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (62.66359pt too wide) in paragraph at lines 1032--1033
+Overfull \hbox (62.66359pt too wide) in paragraph at lines 1072--1073
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (62.66359pt too wide) in paragraph at lines 1033--1034
+Overfull \hbox (62.66359pt too wide) in paragraph at lines 1073--1074
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (46.91373pt too wide) in paragraph at lines 1034--1035
+Overfull \hbox (46.91373pt too wide) in paragraph at lines 1074--1075
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (41.66377pt too wide) in paragraph at lines 1035--1036
+Overfull \hbox (41.66377pt too wide) in paragraph at lines 1075--1076
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (20.66396pt too wide) in paragraph at lines 1036--1037
+Overfull \hbox (20.66396pt too wide) in paragraph at lines 1076--1077
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (4.9141pt too wide) in paragraph at lines 1041--1042
+Overfull \hbox (4.9141pt too wide) in paragraph at lines 1081--1082
 [][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (36.41382pt too wide) in paragraph at lines 1045--1046
+Overfull \hbox (36.41382pt too wide) in paragraph at lines 1085--1086
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (46.91373pt too wide) in paragraph at lines 1046--1047
+Overfull \hbox (46.91373pt too wide) in paragraph at lines 1086--1087
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (99.41327pt too wide) in paragraph at lines 1053--1055
+Overfull \hbox (99.41327pt too wide) in paragraph at lines 1093--1095
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (4.9141pt too wide) in paragraph at lines 1058--1059
+Overfull \hbox (4.9141pt too wide) in paragraph at lines 1098--1099
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (20.66396pt too wide) in paragraph at lines 1061--1062
+Overfull \hbox (20.66396pt too wide) in paragraph at lines 1101--1102
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (25.91391pt too wide) in paragraph at lines 1062--1063
+Overfull \hbox (25.91391pt too wide) in paragraph at lines 1102--1103
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (41.66377pt too wide) in paragraph at lines 1066--1067
+Overfull \hbox (41.66377pt too wide) in paragraph at lines 1106--1107
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [28]
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1073--1075
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1113--1115
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1084--1086
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1124--1126
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1095--1097
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1135--1137
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (10.16405pt too wide) in paragraph at lines 1110--1111
+Overfull \hbox (10.16405pt too wide) in paragraph at lines 1150--1151
 [][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1117--1119
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[29]
-Overfull \hbox (94.16331pt too wide) in paragraph at lines 1128--1130
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (20.66396pt too wide) in paragraph at lines 1133--1134
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (20.66396pt too wide) in paragraph at lines 1134--1135
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (36.41382pt too wide) in paragraph at lines 1135--1136
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (25.91391pt too wide) in paragraph at lines 1136--1137
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (15.414pt too wide) in paragraph at lines 1137--1138
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (73.1635pt too wide) in paragraph at lines 1139--1140
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (36.41382pt too wide) in paragraph at lines 1141--1142
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (88.91336pt too wide) in paragraph at lines 1146--1148
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
@@ -1444,38 +1253,77 @@ Overfull \hbox (88.91336pt too wide) in paragraph at lines 1157--1159
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
+[29]
+Overfull \hbox (94.16331pt too wide) in paragraph at lines 1168--1170
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (20.66396pt too wide) in paragraph at lines 1173--1174
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (20.66396pt too wide) in paragraph at lines 1174--1175
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (36.41382pt too wide) in paragraph at lines 1175--1176
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (25.91391pt too wide) in paragraph at lines 1176--1177
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.414pt too wide) in paragraph at lines 1177--1178
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.1635pt too wide) in paragraph at lines 1179--1180
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (36.41382pt too wide) in paragraph at lines 1181--1182
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1186--1188
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (88.91336pt too wide) in paragraph at lines 1197--1199
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
 [30] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-
-
-! Package utf8x Error: Pleaseuse\usepackage{ucs}tosupportencodingutf8x.
-
-See the utf8x package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ...epackage{ucs} to support encoding utf8x}{}
-                                                  }\fi}%
-(That was another \errmessage.)
-
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1214.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1254.
  [31] [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1214.
- (vetos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1214.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1254.
+
+(vetos.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1254.
 
 Package rerunfilecheck Info: File `vetos.out' has not changed.
 (rerunfilecheck)             Checksum: BD2F69F9BA2471CFEF3D83BC131F3B98;1072.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1254.
  ) 
 Here is how much of TeX's memory you used:
- 8936 strings out of 493334
- 127471 string characters out of 3139247
- 229522 words of memory out of 3000000
- 11407 multiletter control sequences out of 15000+200000
- 16059 words of font info for 51 fonts, out of 3000000 for 9000
+ 9126 strings out of 493334
+ 131394 string characters out of 3139247
+ 236664 words of memory out of 3000000
+ 11595 multiletter control sequences out of 15000+200000
+ 12358 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,6n,32p,345b,1550s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plmi.enc}{C:/Program Files/Mi
@@ -1484,12 +1332,11 @@ ps/pl/plrm.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plbx10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/pl/plbx12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/pl/plmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/pl/plr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr12.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/pl/pltt10.pfb>
-Output written on vetos.pdf (32 pages, 693326 bytes).
+lic/pl/plr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/pltt10.pfb>
+Output written on vetos.pdf (32 pages, 643008 bytes).
 PDF statistics:
- 1318 PDF objects out of 1440 (max. 8388607)
+ 1314 PDF objects out of 1440 (max. 8388607)
  888 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 

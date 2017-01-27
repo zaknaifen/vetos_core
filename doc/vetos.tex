@@ -8,7 +8,7 @@
 \usepackage{hyperref}
 \usepackage{listings}
 \usepackage{color}
-
+\protect\usepackage{ucs}
 
 \author{Klaudia Czuba, Mateusz Koprucki}
 \title{VetOS - system wsparcia kliniki weterynaryjnej}
@@ -36,8 +36,48 @@ literate={ą}{{\k{a}}}1
 {Ć}{{\'C}}1
 {ń}{{\'n}}1
 {Ń}{{\'N}}1}
+	\setlength{\topmargin}{-2cm}
+\thispagestyle {empty}
+\begin{center}
+{\LARGE WYŻSZA SZKOŁA ZARZĄDZANIA EDUKACJA}\\[50]
+
+
+
+
+
+
+
+
+Klaudia Czuba
+
+
+	Nr albumu 24111
 	
-	\maketitle
+	
+	Mateusz Koprucki
+	
+	
+	Nr albumu 24081\\[50]
+	
+	\textbf{Kierunek: Informatyka}\\[50]
+	
+	{\LARGE \textbf{DOKUMENTACJA PROJEKTOWA SYSTEMU BAZY DANYCH} \\[20]
+	
+	\textbf{"VetOS - system wsparcia kliniki weterynaryjnej"}}\\[60]
+	
+
+\end{center}
+
+\begin{flushright}
+	Przedmiot:\\
+	\textbf{Projektowanie systemów baz danych}\\[70]
+	Prowadzący:\\
+	dr inż. Zbigniew Wrona\\[70]
+\end{flushright}
+\begin{center}
+	WROCŁAW 2017
+\end{center}
+
 	\newpage
 	\tableofcontents
 	\newpage
@@ -54,7 +94,7 @@ literate={ą}{{\k{a}}}1
 			\item Serwer bazodanowy - Mysql 5.6.15
 			\item System zarządzania treścią (CMS) Wordpress 4.7 z rozszerzeniami
 		\end{itemize}
-\newline
+
 	Do celów demonstracyjnych aplikacja posiada trzy konta:
 		\begin{itemize}
 			\item vet\_test, hasło vet\_test - do prezentacji grupy weterynarzy
@@ -66,12 +106,12 @@ literate={ą}{{\k{a}}}1
 		\item '.\$zmienna.'
 		\item '\$zmienna'
 	\end{itemize}
-\newline		
+		
 		Pełne repozytorium dostępne jest pod adresem: 
 	
 	\url{https://github.com/zaknaifen/vetos_core}
 	
-\newline
+
 Plik SQL bazy (vetos\_core\_final.sql):
 
 
@@ -577,7 +617,7 @@ Sekcja została podzielona na sześć części:
 			\begin{itemize}
 				\item Formularz wyszukania dostawcy i przejścia do jego edycji (aktywacji bądź deaktywacji dostawcy oraz usunięcia dostępnego produktu z listy dostawcy).
 					
-					OBRAZEK! edycja dostawcy
+					
 				
 				\item Podsumownia aktywnych i nieaktywnych dostawców
 				\end{itemize}
